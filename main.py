@@ -1,4 +1,4 @@
 print('hello world') 
-print('by world')
-print('by world')
-print('by world')
+print('bye world')
+print('bye world')
+print('bye world')
